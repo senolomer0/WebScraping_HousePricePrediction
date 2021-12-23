@@ -1,4 +1,4 @@
-# -WebScraping_HousePricePrediction
+# Web Scraping House Price Prediction
 
 We captured the information of houses in 12 different cities in Turkey. We had to write a working bot to pull this data from a site that is prohibited from extracting data. However, we cannot share this bot due to privacy.
 
